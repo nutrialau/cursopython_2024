@@ -47,7 +47,7 @@ print ('string \n con salto de linea')
                           #3 un valor (si fuera entero, un numero. si es un string las comillas y lo que diga, etc)
 #  Las variables en py no guardan los datos
 
-""" dni = 39487476
+dni = 39487476
 a = 6
 print(dni)
 print (a)
@@ -69,7 +69,7 @@ c=12
 """ d=input('Introduce tu edad:')""" #Esto lo va a convertir en string y si quisiera sumar este valor, no me va a dejar porque no es un INT
 d=int(input('Introduce tu edad:')) #Conversion de Tipo (type): de esta forma logramos que py nos convierta el STR en un INT
 print(c+d)
- """
+
 
 #Vamos a concatenar.
 cadena_de_texto='Soy cadena de texto'
