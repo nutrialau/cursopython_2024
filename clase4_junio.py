@@ -6,5 +6,5 @@
    snake case es la convencion que se usa en py, la nomenclatura que obliga a escribir todo en minuscula y la separacion con guiones bajos: "hola_mundo".
    camel case significa que se escribe todo junto en minuscula y de ser dos o mas palabras, la segunda (tercera, etc) se aplica la mayuscula: "holaMundo"  """
 #para conectar el repo con vsc, "git init" en la consola, seguido de "git add ." 
-print (6-5)
+
 
