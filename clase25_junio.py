@@ -31,7 +31,7 @@ mi_lista=[-11,20,3,41]
 print(mi_lista)
 
 otra_lista=['Hola,', 'como', 'estas','?']
-
+#Para mostras un elemento de la lista, nombro a la lista y al lado entre corchetes escribo la posicion que quiero mostrar y me va a arrojar el item en esa posicion
 #En Py, las listas pueden ser heterogeneas, es decir, pueden tener str e int por igual y hasta otras listas adentro
 
 variable_1='una variable'
